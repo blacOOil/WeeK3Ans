@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\excersice\week 3\bin\Debug\net6.0\week 3.exe
+C:\Users\ACER\Desktop\codin\excersice\week 3\bin\Debug\net6.0\week 3.deps.json
+C:\Users\ACER\Desktop\codin\excersice\week 3\bin\Debug\net6.0\week 3.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\excersice\week 3\bin\Debug\net6.0\week 3.dll
+C:\Users\ACER\Desktop\codin\excersice\week 3\bin\Debug\net6.0\week 3.pdb
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.dll
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\refint\week 3.dll
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.pdb
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\week 3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\excersice\week 3\obj\Debug\net6.0\ref\week 3.dll
